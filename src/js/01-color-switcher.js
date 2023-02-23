@@ -49,4 +49,4 @@ if (totalSpent >= 50000) {
   // Change code above this line
   
 }
-getDiscount(1300)
+getDiscount(4000)
